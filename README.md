@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @priya17988
+- 👋 Hi, I’m @priya1799
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Frontend Languages.
 - 💞️ I’m looking to collaborate on Frontend Projects.
